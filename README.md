@@ -40,7 +40,7 @@
 
 #### [**历史版本(FZOI网盘)**](https://pan.fzoi.top/users/st20240413/public/checker)
 
-#### [**历史版本(Github)**](https://github.com/st20240413/Checker)
+#### [**历史版本(Github)**](https://github.com/LYH-cpp/Checker-Historical-Versions)
 
 ### $v1.1.5:$
 
